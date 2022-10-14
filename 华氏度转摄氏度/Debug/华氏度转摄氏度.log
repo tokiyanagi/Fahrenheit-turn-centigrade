@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\code\华氏度转摄氏度\源.cpp(6,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\华氏度转摄氏度\源.cpp(4,18): warning C4101: “a”: 未引用的局部变量
+  华氏度转摄氏度.vcxproj -> D:\code\华氏度转摄氏度\Debug\华氏度转摄氏度.exe
